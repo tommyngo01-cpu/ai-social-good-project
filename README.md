@@ -1,10 +1,10 @@
-# ai-social-good-project
+# FoodLink AI
 End hunger, achieve food security and improved nutrition, and promote sustainable agriculture.
 
 
 ***Problem — Who is affected, and what specifically breaks down for them today?***
 
-Diego is a first-year SJSU student who works evenings, lives off campus, and sometimes skips meals because he does not know which food pantry or community food resource can help him today. The failure point is not that food resources do not exist; it is that information is scattered, pantry intake questions are hard to answer quickly, and dietary needs such as halal, vegetarian, allergies, or low-sodium meals can be missed during intake. This project supports **SDG 2: Zero Hunger by helping food-insecure students and nearby residents get clearer next steps while helping pantry staff turn messy requests and donation information into usable records. Since M1, the topic stayed focused on Zero Hunger, but the scope is narrowed from the broad goal of “ending hunger” to a specific local workflow: food help intake, resource matching, and donation triage, because a narrower problem can be tested in a working prototype.
+Diego is a first-year SJSU student who works evenings, lives off campus, and sometimes skips meals because he does not know which food pantry or community food resource can help him today. The failure point is not that food resources do not exist; it is that information is scattered, pantry intake questions are hard to answer quickly, and dietary needs such as halal, vegetarian, allergies, or low-sodium meals can be missed during intake. This project supports **SDG 2: Zero Hunger by helping food-insecure students and nearby residents get clearer next steps while helping pantry staff turn messy requests and donation information into usable records. Since M1, the topic stayed focused on Zero Hunger, but the scope is narrowed from the broad goal of “ending hunger” to a specific local workflow: food help intake, resource matching, and donation triage, because a narrower problem can be easier` tested in a working prototype.
 
 ***AI Capability — Which lab capability addresses the failure point, and why does it fit?***
 
